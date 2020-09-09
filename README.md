@@ -9,13 +9,10 @@
 
 - 👯 I’m looking to collaborate on [m3u8-dl](https://github.com/excalibur-kvrv/m3u8-dl)
 
-- 👯 I’m looking to get into a good Software Developement Company
-
 - 🥅 2020 Goals: Contribute more to Open Source projects
 
 - 💬 Ask me about **Python**
 
-- 📫 How to reach me **excalibur.krv@gmail.com**
 
 
 <h2> Languages and tools used: </h2>
