@@ -1,6 +1,7 @@
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 
 <h1 align="center">Hi 👋, I'm Kevin Rohan Vaz</h1>
+<p align="center"><img src="techguy.gif"align="center" width="500"/></p>
 <h3 align="center">Self-Motivated learner who loves learning about new technologies and how to integrate them to create more useful applications for daily life. I am currently looking forward to pursuing a career in software engineering.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=excalibur-kvrv" alt="excalibur-kvrv" /> </p>
