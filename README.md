@@ -4,10 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=excalibur-kvrv" alt="excalibur-kvrv" /> </p>
 
-- 🔭 I’m currently working on [m3u8-dl](https://github.com/excalibur-kvrv/m3u8-dl)
-
-- 👯 I’m looking to collaborate on [m3u8-dl](https://github.com/excalibur-kvrv/m3u8-dl)
-
 - 🥅 2021 Goals: Contribute more to Open Source projects and build a compiler for an esoteric programming language 
 
 - 💬 Ask me about **Python**
