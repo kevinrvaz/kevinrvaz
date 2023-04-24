@@ -30,4 +30,6 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/kevin-rohan-vaz/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kevin-rohan-vaz" height="30" width="30" /></a>
 <a href="https://www.hackerrank.com/excalibur_kvrv?hr_r=1" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/480px-HackerRank_Icon-1000px.png" alt="kevin-rohan-vaz-521611130" height="30" width="30" /></a>
+  <a href="https://leetcode.com/excalibur-kvrv/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png" alt="kevin-rohan-vaz-521611130" height="30" width="30" /></a>  
+  
 </p>
