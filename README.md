@@ -23,15 +23,6 @@
 </p>
 <br/>
 
-<h2>:zap: Github Stats </h2>
-<br/>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinrvaz&layout=compact&hide=html&theme=radical" alt="excalibur-kvrv" />
-</p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kevinrvaz&show_icons=true&theme=radical" alt="excalibur-kvrv" />
-</p>
 
 <br/>
 <p align="center">
