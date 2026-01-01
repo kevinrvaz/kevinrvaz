@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=excalibur-kvrv" alt="excalibur-kvrv" /> </p>
 
-- 🥅 2025 Goals: Contribute more to Open Source projects and build a compiler for an esoteric programming language 
+- 🥅 2026 Goals: Contribute more to Open Source projects and build a compiler for an esoteric programming language 
 
 - 💬 Ask me about **Python**
 
